@@ -21,4 +21,4 @@ const makeCommit = n => {
  
 } 
 
-makeCommit("91")
+makeCommit(91)
